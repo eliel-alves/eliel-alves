@@ -6,7 +6,7 @@ I'm 24 years old, with 3 years of experience working as a freelancer. Constantly
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliel-alves&show_icons=true&theme=graywhite&rank_icon=github" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliel-alves&layout=compact&langs_count=8&card_width=330&theme=graywhite&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliel-alves&layout=compact&langs_count=8&card_width=350&theme=graywhite&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ##
