@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Eliel Alves and I'm a front-end developer. 👨🏻‍💻
 
-I'm 24 years old, with 3 years of experience working as a freelancer. Constantly learning! 🌱
+I'm 25 years old, with 4 years of experience working as a freelancer. Constantly learning! 🌱
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliel-alves&show_icons=true&theme=graywhite&rank_icon=github" />
