@@ -3,10 +3,10 @@
 I'm 25 years old, with 4 years of experience working as a freelancer. Constantly learning! 🌱
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eliel-alves&show_icons=true&theme=graywhite&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-eliel-alves.vercel.app/api?username=eliel-alves&show_icons=true&theme=graywhite&rank_icon=github" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliel-alves&layout=compact&langs_count=8&card_width=340&theme=graywhite&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats-eliel-alves.vercel.app/api/top-langs?username=eliel-alves&layout=compact&langs_count=8&card_width=340&theme=graywhite&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ##
