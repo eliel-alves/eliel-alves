@@ -1,66 +1,69 @@
 ## Hi, I'm Eliel 👋
 
-**Senior Full-Stack Engineer** — I design and ship production systems end-to-end in TypeScript, from PostgreSQL schemas and queued background jobs to React Server Components and design systems.
-
-> _Engineering is about clear tradeoffs, not chasing best practices.<br/>Ship things that scale today and stay maintainable tomorrow._
-
-I care about strong typing, predictable boundaries between layers, and code that the next engineer (or the next me) can read without a tour guide.
+Senior Full-Stack Engineer based in Goiânia, Brazil. I work with TypeScript across the stack — web, mobile and the APIs behind them.
 
 ##
 
 ### 🛠️ Stack
 
 **Languages & Runtime**
+
 <div>
-  <img alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" title="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Bun" title="Bun" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 </div>
 
 **Frontend**
+
 <div>
-  <img alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Astro" title="Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-  <img alt="Vite" title="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-  <img alt="Tailwind CSS" title="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
 **Backend & API**
+
 <div>
-  <img alt="NestJS" title="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img alt="Fastify" title="Fastify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-  <img alt="Express" title="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="Prisma" title="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
 **Data & Infra**
+
 <div>
-  <img alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img alt="Redis" title="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="AWS" title="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Cloudflare" title="Cloudflare" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
-  <img alt="Vercel" title="Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 **Mobile & Tooling**
+
 <div>
-  <img alt="React Native / Expo" title="React Native / Expo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub Actions" title="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img alt="Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-Day-to-day I also lean on **Better Auth**, **BullMQ**, **Vitest**, **Hono**, **TanStack Query/Router**, **shadcn/ui**, **GSAP**, and **n8n**.
+Also use a lot: Better Auth, BullMQ, Vitest, TanStack Query/Router, shadcn/ui, GSAP, n8n.
 
 ##
 
-### 🤖 AI-Assisted Engineering
+### 🤖 AI Tools
 
-I treat AI tooling as a first-class part of the engineering loop — test generation, refactor, code review, spec-driven work, and agentic workflows. Tools I use daily:
+I use AI every day to write, review and debug code.
 
 <div>
   <a href="https://www.anthropic.com/claude-code" target="_blank"><img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /></a>
@@ -71,7 +74,7 @@ I treat AI tooling as a first-class part of the engineering loop — test genera
   <a href="https://n8n.io" target="_blank"><img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
 </div>
 
-I also build with the **Anthropic API**, **OpenAI API**, and **Vercel AI SDK** when shipping AI features into production apps.
+I also build AI features into production apps using the Anthropic API, OpenAI API and Vercel AI SDK.
 
 ##
 
@@ -88,13 +91,13 @@ I also build with the **Anthropic API**, **OpenAI API**, and **Vercel AI SDK** w
 
 ### 🎓 Background
 
-- **BSc in Computer Science** — IFSul (Instituto Federal Sul-rio-grandense), Passo Fundo/RS · 2018–2022
-- Based in **Goiânia, Brazil** 🇧🇷 — working remote-first with teams across LATAM, US, and EU
-- Speaks **Portuguese (native)** and **English (advanced reading/listening, conversational)**
+- BSc in Computer Science — IFSul, 2018–2022
+- Portuguese (native), English (advanced)
+- Remote-first, open to work with teams in Brazil, LATAM, US and EU
 
 ##
 
-### 📫 Let's talk
+### 📫 Contact
 
 <div>
   <a href="https://eliel.work" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white" /></a>
@@ -109,21 +112,15 @@ I also build with the **Anthropic API**, **OpenAI API**, and **Vercel AI SDK** w
 
 <br/>
 
-**Engenheiro de Software Full-Stack Sênior** — projeto e entrego sistemas em produção de ponta a ponta em TypeScript: do schema PostgreSQL e filas de background até React Server Components e design systems.
-
-> _Engenharia é sobre tradeoffs claros, não sobre seguir best practices.<br/>Entregue código que escala hoje e continua manutenível amanhã._
-
-Me importo com tipagem forte, fronteiras previsíveis entre camadas e código que o próximo engenheiro (ou o próximo eu) consiga ler sem precisar de tour guiado.
+Engenheiro de Software Full-Stack Sênior, baseado em Goiânia. Trabalho com TypeScript em todo o stack — web, mobile e as APIs por trás.
 
 **Stack principal:** TypeScript, Node.js, React, Next.js, NestJS, Fastify, Prisma, PostgreSQL, MongoDB, Redis, BullMQ, Tailwind, Astro, Docker, AWS e Cloudflare. Mobile com React Native/Expo.
 
-**Ferramentas de IA no dia-a-dia:** Claude Code, OpenAI Codex, Google Antigravity, Cursor, GitHub Copilot e n8n para automações. Também construo features com Anthropic API, OpenAI API e Vercel AI SDK em apps de produção.
+**Ferramentas de IA que uso no dia-a-dia:** Claude Code, Codex, Antigravity, Cursor, GitHub Copilot e n8n. Também construo features de IA em apps de produção com Anthropic API, OpenAI API e Vercel AI SDK.
 
-**Formação:** Bacharelado em Ciência da Computação pelo IFSul (Passo Fundo/RS, 2018–2022).
+**Formação:** Bacharelado em Ciência da Computação, IFSul (2018–2022).
 
-**Localização:** Goiânia/GO, trabalhando remoto com times do Brasil, América Latina, Estados Unidos e Europa.
-
-**Idiomas:** Português nativo, inglês avançado (leitura e escuta técnica, conversação em desenvolvimento).
+**Idiomas:** Português nativo, inglês avançado.
 
 **Contato:** [eliel.work](https://eliel.work) · [LinkedIn](https://linkedin.com/in/eliel-alves) · elielalves.dev@gmail.com
 
