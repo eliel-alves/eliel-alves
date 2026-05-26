@@ -54,7 +54,24 @@ I care about strong typing, predictable boundaries between layers, and code that
   <img alt="Figma" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-Day-to-day I also lean on **Better Auth**, **BullMQ**, **Vitest**, **Hono**, **TanStack Query/Router**, **shadcn/ui**, **GSAP**, and **n8n** — plus AI-assisted development as a real engineering practice (test generation, refactor, review).
+Day-to-day I also lean on **Better Auth**, **BullMQ**, **Vitest**, **Hono**, **TanStack Query/Router**, **shadcn/ui**, **GSAP**, and **n8n**.
+
+##
+
+### 🤖 AI-Assisted Engineering
+
+I treat AI tooling as a first-class part of the engineering loop — test generation, refactor, code review, spec-driven work, and agentic workflows. Tools I use daily:
+
+<div>
+  <a href="https://www.anthropic.com/claude-code" target="_blank"><img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /></a>
+  <a href="https://openai.com/codex" target="_blank"><img alt="OpenAI Codex" src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://antigravity.google" target="_blank"><img alt="Google Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://cursor.com" target="_blank"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
+  <a href="https://github.com/features/copilot" target="_blank"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /></a>
+  <a href="https://n8n.io" target="_blank"><img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+</div>
+
+I also build with the **Anthropic API**, **OpenAI API**, and **Vercel AI SDK** when shipping AI features into production apps.
 
 ##
 
@@ -99,6 +116,8 @@ Day-to-day I also lean on **Better Auth**, **BullMQ**, **Vitest**, **Hono**, **T
 Me importo com tipagem forte, fronteiras previsíveis entre camadas e código que o próximo engenheiro (ou o próximo eu) consiga ler sem precisar de tour guiado.
 
 **Stack principal:** TypeScript, Node.js, React, Next.js, NestJS, Fastify, Prisma, PostgreSQL, MongoDB, Redis, BullMQ, Tailwind, Astro, Docker, AWS e Cloudflare. Mobile com React Native/Expo.
+
+**Ferramentas de IA no dia-a-dia:** Claude Code, OpenAI Codex, Google Antigravity, Cursor, GitHub Copilot e n8n para automações. Também construo features com Anthropic API, OpenAI API e Vercel AI SDK em apps de produção.
 
 **Formação:** Bacharelado em Ciência da Computação pelo IFSul (Passo Fundo/RS, 2018–2022).
 
