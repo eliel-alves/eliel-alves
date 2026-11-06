@@ -1,4 +1,4 @@
-name: snake
+name: profile-art
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
@@ -20,6 +20,13 @@ jobs:
           outputs: |
             dist/snake.svg?palette=github-light
             dist/snake-dark.svg?palette=github-dark
+
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - run: mv profile-3d-contrib dist/3d
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:

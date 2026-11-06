@@ -1,3 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=160&section=header&text=Eliel%20Alves&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descAlignY=58" alt="Eliel Alves" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3178C6&center=true&vCenter=true&width=480&lines=Senior+Full-Stack+Engineer;TypeScript+across+the+stack;Web+%C2%B7+Mobile+%C2%B7+APIs;Shipping+with+AI+every+day" alt="Typing SVG" />
+</p>
+
 ## Hi, I'm Eliel 👋
 
 Senior Full-Stack Engineer based in Goiânia, Brazil. I work with TypeScript across the stack — web, mobile and the APIs behind them.
@@ -89,6 +95,24 @@ I also build AI features into production apps using the Anthropic API, OpenAI AP
 
 <br/><br/>
 
+<img height="180" src="https://streak-stats.demolab.com?user=eliel-alves&theme=default&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliel-alves&theme=github" alt="Profile details" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eliel-alves&theme=github&timeZone=America/Sao_Paulo" alt="Productive time" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/3d/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/3d/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/3d/profile-green-animate.svg" />
+</picture>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/snake.svg" />
@@ -133,3 +157,5 @@ Engenheiro de Software Full-Stack Sênior, baseado em Goiânia. Trabalho com Typ
 **Contato:** [eliel.work](https://eliel.work) · [LinkedIn](https://linkedin.com/in/eliel-alves) · elielalves.dev@gmail.com
 
 </details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=100&section=footer" alt="" />
