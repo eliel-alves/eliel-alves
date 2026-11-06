@@ -87,6 +87,14 @@ I also build AI features into production apps using the Anthropic API, OpenAI AP
   <img height="200" align="center" src="https://github-readme-stats-eliel-alves.vercel.app/api/top-langs?username=eliel-alves&layout=compact&langs_count=8&card_width=340&theme=graywhite&size_weight=0.5&count_weight=0.5" />
 </a>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/eliel-alves/eliel-alves/output/snake.svg" />
+</picture>
+
 ##
 
 ### 🎓 Background
